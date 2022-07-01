@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+
+
 
 <!--
 **Farrah-1/Farrah-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 
 ![Farrahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrah-1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrah-1)](https://github.com/Farrah-1/github-readme-stats)
+![](https://komarev.com/ghpvc/?farrah-1&style=flat-square)
